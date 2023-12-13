@@ -1,3 +1,3 @@
-# documents
+# Documents
 
-Documents published by UK Rehabilitation Outcomes Collaborative (UK ROC)
+This repository will be used for documents published by UK Rehabilitation Outcomes Collaborative (UK ROC)
